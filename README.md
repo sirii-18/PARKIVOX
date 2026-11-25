@@ -33,7 +33,7 @@ Parkinson's Disease is a progressive neurological disorder that affects movement
 
 ```bash
 # Clone the repository
-git clone https://github.com/Nandhida/ParkiVox-Voise-based-Parkinson-Prediction.git
+git clone https://github.com/sirii-18/PARKIVOX.git
 cd ParkiVox-Voise-based-Parkinson-Prediction
 
 # Create virtual environment
